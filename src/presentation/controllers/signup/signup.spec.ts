@@ -5,7 +5,7 @@ import {
   AccountModel,
   AddAccount,
   AddAccountModel,
-} from './signup-protocols'
+} from '../signup/signup-protocols'
 
 const makeEmailValidator = (): EmailValidator => {
   class EmailValidatorStub implements EmailValidator {
