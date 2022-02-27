@@ -23,7 +23,7 @@
   },
   "dependencies": {},
   "scripts": {
-    "test": "jest --passWithNoTests --watch",
+    "test": "jest --passWithNoTests --watch --no-cache",
     "test:staged": "jest --passWithNoTests"
   }
 }
