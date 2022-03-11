@@ -33,7 +33,7 @@
     "bcrypt": "^5.0.1",
     "express": "^4.17.3",
     "fast-glob": "^3.2.11",
-    "mongodb": "^4.4.1",
+    "mongodb": "3.2.7",
     "validator": "^13.7.0"
   },
   "scripts": {
